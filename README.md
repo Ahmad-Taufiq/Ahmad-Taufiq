@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ahmad-Taufiq
+- 👀 I’m interested in mobile and computer programming
+- 🌱 I’m currently learning mobile programming
